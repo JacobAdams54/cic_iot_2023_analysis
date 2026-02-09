@@ -1,0 +1,14 @@
+services:
+  lab:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: cic_iot_2023_lab
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/workspace
+    environment:
+      - PYTHONUNBUFFERED=1
+    working_dir: /workspace
+

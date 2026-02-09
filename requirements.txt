@@ -1,0 +1,11 @@
+jupyterlab==4.*
+pandas==2.*
+numpy==2.*
+matplotlib==3.*
+scikit-learn==1.*
+pyarrow==17.*
+fastparquet==2024.*
+seaborn==0.13.*
+tqdm==4.*
+polars==1.*
+
