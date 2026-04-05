@@ -3,6 +3,7 @@ pandas==2.*
 numpy==2.*
 matplotlib==3.*
 scikit-learn==1.*
+joblib==1.*
 pyarrow==17.*
 fastparquet==2024.*
 seaborn==0.13.*
