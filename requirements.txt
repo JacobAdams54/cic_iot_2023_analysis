@@ -9,4 +9,4 @@ fastparquet==2024.*
 seaborn==0.13.*
 tqdm==4.*
 polars==1.*
-
+xgboost==2.*
