@@ -7,3 +7,4 @@ outputs/
 __pycache__/
 notebooks/artifacts/test_labels_full.csv
 test_labels_full.csv
+.venv/
