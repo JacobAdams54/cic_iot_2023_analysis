@@ -1,7 +1,7 @@
 {
-  "test_accuracy": 0.603891959977203,
-  "test_macro_f1": 0.45990414451781214,
-  "test_weighted_f1": 0.6728621396135707,
+  "test_accuracy": 0.6045066885440198,
+  "test_macro_f1": 0.4602090484165847,
+  "test_weighted_f1": 0.6734205715023417,
   "evaluated_test_rows": 45018243,
   "dropped_unlabeled_or_invalid_rows": 0
 }
