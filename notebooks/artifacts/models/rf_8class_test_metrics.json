@@ -1,0 +1,14 @@
+{
+  "validation": {
+    "accuracy": 0.8436067438328329,
+    "macro_f1": 0.5473971684587746,
+    "weighted_f1": 0.8118433560668602
+  },
+  "holdout": {
+    "accuracy": 0.7949049677482971,
+    "macro_f1": 0.5045588521938588,
+    "weighted_f1": 0.760616674737482
+  },
+  "evaluated_test_rows": 45018243,
+  "dropped_test_rows": 0
+}

@@ -1,7 +1,18 @@
 {
-  "test_accuracy": 0.6045066885440198,
-  "test_macro_f1": 0.4602090484165847,
-  "test_weighted_f1": 0.6734205715023417,
+  "raw": {
+    "accuracy": 0.8024587943158954,
+    "macro_f1": 0.5065602160460954,
+    "weighted_f1": 0.7575107028051474
+  },
+  "gated": {
+    "accuracy": 0.803580894971845,
+    "macro_f1": 0.5069036122580141,
+    "weighted_f1": 0.7584060456938974
+  },
   "evaluated_test_rows": 45018243,
-  "dropped_unlabeled_or_invalid_rows": 0
+  "dropped_unlabeled_or_invalid_rows": 0,
+  "gating_thresholds": {
+    "RECON": 0.35,
+    "WEB": 0.35
+  }
 }
